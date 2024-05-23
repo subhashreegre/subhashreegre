@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## I am Subhashree Roy, a passionate full-stack developer from Kolkata, India.
+
 <!--
 **subhashreegre/subhashreegre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
